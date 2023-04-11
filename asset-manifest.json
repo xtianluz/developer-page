@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/developer-page/static/css/main.b08a4d81.css",
+    "main.js": "/developer-page/static/js/main.1e2aefa4.js",
+    "static/media/android-profile.png": "/developer-page/static/media/android-profile.050551df0fc59db82bb2.png",
+    "static/media/expenses-only-logo.png": "/developer-page/static/media/expenses-only-logo.024139a116d92a3d79d1.png",
+    "index.html": "/developer-page/index.html",
+    "main.b08a4d81.css.map": "/developer-page/static/css/main.b08a4d81.css.map",
+    "main.1e2aefa4.js.map": "/developer-page/static/js/main.1e2aefa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08a4d81.css",
+    "static/js/main.1e2aefa4.js"
+  ]
+}

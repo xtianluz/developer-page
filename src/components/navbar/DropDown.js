@@ -10,7 +10,7 @@ const DropDown = () => {
         {
             id: 1,
             name: 'Expenses Only',
-            link: 'https://xtianluz.github.io/expensesonlypp.html',
+            link: 'https://xtianluz.github.io/developer-page/expensesonlypp.html',
         },
     ]
 
